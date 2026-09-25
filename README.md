@@ -11,7 +11,7 @@ Many though not all Silicon Valley Archives collections can be found via this [s
 A recent narrative [overview](https://docs.google.com/document/d/11T6M6rDP6qcpex83EOdHti4AI_AHpfiUa6rRnzAs2qQ/edit?tab=t.0) that covers the history of the archive and collection strengths.
 
 ## Collections Explorer
-An online annotated bibliography and timeline of ~1,900 Stanford collections that may be relevant to the study of Silicon Valley is available [here](https://charlesapetersen.github.io/silicon-valley-archives/).
+An online annotated bibliography and timeline of almost 2,000 Stanford collections that may be relevant to the study of Silicon Valley is available [here](https://charlesapetersen.github.io/sva-collections-explorer/).
 
 ## Zotero Library
 A shared Zotero [library](https://www.zotero.org/groups/6129122/silicon_valley_archives_collections__shared_bibliography/library) that includes all SVA collections, along with many related Stanford collections and a working Silicon Valley bibliography.
